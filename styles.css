@@ -1,0 +1,13 @@
+h2 {color:green;}
+h3 {color:blue;}
+form { width:50%;}
+span.messages {color:blueviolet; font-size: 22px; font-weight:bold;}
+label,input { display:inline-block;}
+label {font-size:90%; font-weight:bold; color:indigo;width:15%;}
+input[type="submit"] {background-color: darkblue; color:white;font-weight:bold;}
+table {width:80%;border-collapse:collapse;}
+th {color:white;background-color: darkblue;font-weight:bold;}
+td {color:blue;}
+a:link,th,td {font-size:18px;}
+table, th, td {border: 2px solid blue;}
+th a {color:white;text-decoration:none;}
